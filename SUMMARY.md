@@ -2,4 +2,4 @@
 
 * [Introduction](README.md)
 * [BOOK - 小狗钱钱](reandme.md)
-* [STUDY - markdown](VSCode.md)
+* [STUDY - markdown](markdown.md)
