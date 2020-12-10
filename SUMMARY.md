@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Introduction](./README.md)
-* [aaa](./REANDME.md)
+* [Introduction](README.md)
+* [aaa](reandme.md)
+
