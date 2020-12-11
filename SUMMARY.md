@@ -1,5 +1,5 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [BOOK - 小狗钱钱](reandme.md)
+* [BOOK - 阅读笔记](reandme.md)
 * [STUDY - markdown](markdown.md)
