@@ -1,5 +1,4 @@
 # STUDY - MARKDOWN
-## Markdown
 ### 基础语法
 ```
 - 标题：#（建议标题的前后都要空一行）
@@ -41,6 +40,7 @@ GFM（GitHub Flavored Markdown)
 - 脚注：[^脚注]
 - 图表（序列图、流程图和mermaid是Typora的拓展语法）
 ```
+-----------------------------------------
 ## VSCode *(visual studio code)*
 + 2020.12.10 学习笔记
    + **生成网页**：菜单列表“终端” - 选择“新终端”（若有多个powershell，删掉除1以外的其他终端） - 输入gitbook serve，回车 - 生成链接（ctrl+单击打开）*此处生成的页面内字体和布局更悦目，此链接可分享* 
